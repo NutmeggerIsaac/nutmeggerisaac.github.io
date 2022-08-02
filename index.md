@@ -1,6 +1,10 @@
 # Welcome to Isaac Torcellini's website.
 
-Cool pictures of things this world needs:
+Welcome to a website which is made by someone who only knows Markdown.
+
+But hopefully it's at least organized.
+
+## Cool pictures of things this world needs:
 
 ![A picture of a lighthouse tower interior](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lighthouse_lantern_room_with_Fresnel_lens.png/345px-Lighthouse_lantern_room_with_Fresnel_lens.png)
 
@@ -20,8 +24,6 @@ Luther discovering justification by faith alone (*Luther at Erfurt, Joseph Noel 
 
 ![Luther discovering justification by faith alone](https://upload.wikimedia.org/wikipedia/commons/f/f6/Luther_at_Erfurt_-_Justification_by_Faith.jpg)
 
-[Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
-
 Also British government is cool.
 
 ![United Kingdom Parliament Building](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Parliament_at_Sunset.JPG/640px-Parliament_at_Sunset.JPG)
@@ -31,6 +33,12 @@ So are ducks.
 ![Ducks playing tennis](https://www.oldbookillustrations.com/wp-content/high-res/1913/handsome-pair-768.jpg)
 
 ![Ducks riding dogs, an appropriate use](https://www.oldbookillustrations.com/wp-content/high-res/1913/gallop-canter-trot-768.jpg)
+
+## Documents that I made:
+
+[Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
+
+[A common question: What about free will?](/What.about.free.will.pdf)
 
 Solo Deo Gloria!
 
