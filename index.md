@@ -1,8 +1,10 @@
-Welcome to Isaac Torcellini's website.
+# Welcome to Isaac Torcellini's website.
 
 Cool pictures of things this world needs:
 
 ![A picture of a lighthouse tower interior](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lighthouse_lantern_room_with_Fresnel_lens.png/345px-Lighthouse_lantern_room_with_Fresnel_lens.png)
+
+Churches should be singing the Psalms more often.
 
 ![The bay psalm book](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bay1640.jpg/376px-Bay1640.jpg)
 
@@ -18,12 +20,20 @@ Luther discovering justification by faith alone (*Luther at Erfurt, Joseph Noel 
 
 ![Luther discovering justification by faith alone](https://upload.wikimedia.org/wikipedia/commons/f/f6/Luther_at_Erfurt_-_Justification_by_Faith.jpg)
 
+[Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
+
 Also British government is cool.
 
 ![United Kingdom Parliament Building](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Parliament_at_Sunset.JPG/640px-Parliament_at_Sunset.JPG)
+
+So are ducks.
 
 ![Ducks playing tennis](https://www.oldbookillustrations.com/wp-content/high-res/1913/handsome-pair-768.jpg)
 
 ![Ducks riding dogs, an appropriate use](https://www.oldbookillustrations.com/wp-content/high-res/1913/gallop-canter-trot-768.jpg)
 
+Solo Deo Gloria!
+
 *Scripture quotations are from the ESV® Bible (The Holy Bible, English Standard Version®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved. The ESV text may not be quoted in any publication made available to the public by a Creative Commons license. The ESV may not be translated into any other language.*
+
+© Isaac Torcellini 2022
