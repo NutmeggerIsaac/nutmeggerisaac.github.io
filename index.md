@@ -6,6 +6,8 @@ But hopefully it's at least organized.
 
 ## Cool pictures of things this world needs:
 
+The Fresnel Lens, a great innovation.
+
 ![A picture of a lighthouse tower interior](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lighthouse_lantern_room_with_Fresnel_lens.png/345px-Lighthouse_lantern_room_with_Fresnel_lens.png)
 
 Churches should be singing the Psalms more often.
@@ -44,4 +46,4 @@ Solo Deo Gloria!
 
 *Scripture quotations are from the ESV® Bible (The Holy Bible, English Standard Version®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved. The ESV text may not be quoted in any publication made available to the public by a Creative Commons license. The ESV may not be translated into any other language.*
 
-© Isaac Torcellini 2022
+© Isaac Torcellini
