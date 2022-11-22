@@ -5,7 +5,7 @@ permalink: /phcantivirus/
 ---
 ![PHC Anti Virus Logo](/phcantiviruslogo.png)
 
-[Click here to download!](/phcantivirus.vbs)
+**[Click here to download!](/phcantivirus.vbs)**
 
 This is *PHC Anti-Virus*! This software is better than all other anti virus softwares. We send no notifications, only protection.
 
@@ -17,4 +17,4 @@ For Windows only. (This is why you should switch to Windows!)
 
 This may make warnings on your computer. You should ignore them and proceed. This is safe to download.
 
-[Click here to download!](/phcantivirus.vbs)
+**[Click here to download!](/phcantivirus.vbs)**
