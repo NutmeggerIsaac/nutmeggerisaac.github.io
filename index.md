@@ -4,9 +4,15 @@ Welcome to a website which is made by someone who only knows Markdown.
 
 But hopefully it's at least organized.
 
-# Happy Christmas!
+## Happy Christmas!
 
 ![Blinking Christmas lights](/ChristmasLights_live.svg)
+
+## Resources:
+
+[Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
+
+[A common question: What about free will?](/What.about.free.will.pdf)
 
 ## Cool pictures of things this world needs:
 
@@ -39,12 +45,6 @@ So are ducks.
 ![Ducks playing tennis](/tennis.ducks.jpg)
 
 ![Ducks riding dogs, an appropriate use](/ducks.dogs.jpg)
-
-## Documents that I made:
-
-[Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
-
-[A common question: What about free will?](/What.about.free.will.pdf)
 
 Soli Deo Gloria!
 
