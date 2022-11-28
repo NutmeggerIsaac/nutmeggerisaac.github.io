@@ -4,6 +4,10 @@ Welcome to a website which is made by someone who only knows Markdown.
 
 But hopefully it's at least organized.
 
+# Happy Christmas!
+
+![Blinking Christmas lights](/ChristmasLights_live.svg)
+
 ## Cool pictures of things this world needs:
 
 The Fresnel Lens, a great innovation.
