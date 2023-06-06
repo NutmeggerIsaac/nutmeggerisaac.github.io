@@ -1,16 +1,12 @@
-# Welcome to Isaac Torcellini's website.
+*Welcome to Isaac Torcellini's website.*
 
-Welcome to a website which is made by someone who only knows Markdown.
-
-But hopefully it's at least organized.
-
-## Resources:
+# Resources:
 
 [Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
 
 [A common question: What about free will?](/What.about.free.will.pdf)
 
-## Theology notes:
+# Theology notes:
 
 body/soul≠flesh/spirit
 
@@ -26,7 +22,7 @@ flesh/spirit≠law/gospel
 
 We should make sure our terms are defined precicely here. Paul, at the end of Romans 2, calls us to put away the flesh and instead put on the spirit. Yet he does not condemn the body. The body is made by God. The flesh is a perversion of God’s created order, where affections are oriented towards man’s benefit rather than God’s glory. Hence why Jesus tells us, “God is spirit, and those who worship him must worship in spirit and truth.” The call for spirit and truth is not to reject the body, but rather to reorient the body *and* the soul to God’s glory.
 
-## Cool pictures of things this world needs:
+# Cool pictures of things this world needs:
 
 The Fresnel Lens, a great innovation.
 
