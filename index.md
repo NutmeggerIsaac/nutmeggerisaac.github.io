@@ -1,12 +1,18 @@
 *Welcome to Isaac Torcellini's website.*
 
-# Resources:
+# Things to read:
 
-[Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
+## Essays and articles:
 
 [A common question: What about free will?](/What.about.free.will.pdf)
 
-[Theology notes](/theology-notes)
+[Postmillennialism: An Overview](/torcellini.postmillennialism.pdf)
+
+## [Theology notes](/theology-notes)
+
+## Fun stuff:
+
+[Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
 
 # Cool pictures of things this world needs:
 
