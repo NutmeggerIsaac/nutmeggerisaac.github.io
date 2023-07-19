@@ -7,6 +7,6 @@ Good! Now just a few questions....
 
 How does the earth stay up?
 
-**[A turtle holds it up](/exploration-2)**
+**[Gravity](exploration-loss)**
 
-**[No](exploration-loss)**
+**[A turtle holds it up](/exploration-2)**
