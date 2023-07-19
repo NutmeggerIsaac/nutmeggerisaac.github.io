@@ -7,6 +7,6 @@ Congratulations! You have reached the part of [isaac.torcellini.org](/) where ex
 
 Do you want to proceed?
 
-**[Yes](/theology-notes)**
+**[Yes](/theology-notes/)**
 
-**[No](/)**
+**[No](/exploration-loss/)**
