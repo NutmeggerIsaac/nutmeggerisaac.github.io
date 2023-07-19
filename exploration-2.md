@@ -7,6 +7,6 @@ That was the correct answer 🐢.
 
 Now, who first promised to "drain the swamp?"
 
-**[Donald Trump](exploration-loss)**
+**[Donald Trump](/exploration-loss)**
 
 **[Peter the Great](/exploration-3)**
