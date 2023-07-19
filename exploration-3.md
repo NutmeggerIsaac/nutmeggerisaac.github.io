@@ -13,10 +13,10 @@ Finally, who said this?
 > 
 > To this high world the world of lower kind.
 
-**[Dante](exploration-loss)**
+**[Dante](/exploration-loss)**
 
 **[Solomon](/exploration-4)**
 
-**[Virgil](exploration-loss)**
+**[Virgil](/exploration-loss)**
 
-**[Moses](exploration-loss)**
+**[Moses](/exploration-loss)**
