@@ -2,15 +2,15 @@
 
 # Things to read:
 
-## Essays and articles:
+[The Arc of Glory: Nature Deformed, Renewed, and Transcended in Dante’s *Divine Comedy*](/the.arc.of.glory.pdf)
+
+## [Theology notes](/theology-notes)
+
+## Stuff on my Opinions:
 
 [A common question: What about free will?](/What.about.free.will.pdf)
 
-[The Arc of Glory: Nature Deformed, Renewed, and Transcended in Dante’s *Divine Comedy*](/the.arc.of.glory.pdf)
-
 [Postmillennialism: An Overview](/torcellini.postmillennialism.pdf)
-
-## [Theology notes](/theology-notes)
 
 ## Fun stuff:
 
