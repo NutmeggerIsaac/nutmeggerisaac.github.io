@@ -1,3 +1,5 @@
+![A homepage image](/welcome-picture-1.jpg)
+
 *Welcome to Isaac Torcellini's website.*
 
 # Things to read:
