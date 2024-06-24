@@ -6,14 +6,6 @@
 
 [The Arc of Glory: Nature Deformed, Renewed, and Transcended in Dante’s *Divine Comedy*](/the.arc.of.glory.pdf)
 
-## [Theology notes](/theology-notes)
-
-## Stuff on my Opinions:
-
-[A common question: What about free will?](/What.about.free.will.pdf)
-
-[Postmillennialism: An Overview](/torcellini.postmillennialism.pdf)
-
 ## Fun stuff:
 
 [Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
