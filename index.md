@@ -1,10 +1,12 @@
-![A homepage image](/welcome-picture-1.jpg)
-
 *Welcome to Isaac Torcellini's website.*
 
 # Things to read:
 
 [The Arc of Glory: Nature Deformed, Renewed, and Transcended in Dante’s *Divine Comedy*](/the.arc.of.glory.pdf)
+
+[A common question: What about free will? A (brief) introduction to freedom, liberty, and grace in salvation](/what.about.free.will.pdf); [I also made this in a printable pamphlet format](/what.about.free.will.pamphlet.pdf)
+
+[Theology Notes: Random things I think about on any given day that I then write down](/theology-notes/)
 
 ## Fun stuff:
 
