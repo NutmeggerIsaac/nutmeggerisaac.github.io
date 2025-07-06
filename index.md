@@ -6,7 +6,7 @@
 
 [A common question: What about free will? A (brief) introduction to freedom, liberty, and grace in salvation](/what.about.free.will.pdf); [I also made this in a printable pamphlet format](/what.about.free.will.pamphlet.pdf)
 
-[Theology Notes: Random things I think about on any given day that I then write down](/theology-notes/)
+[Theology Notes: Random things I think about on any given day that I then write down](/theology-notes.md/)
 
 ## Fun stuff:
 
