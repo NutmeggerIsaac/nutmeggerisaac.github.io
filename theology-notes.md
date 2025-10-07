@@ -10,7 +10,7 @@ Further,
 
 body/soul≠law/gospel
 
-There is an objective sense to the terms “flesh” and “spirit.” While body/soul is refers to the person as an individual in a philosophical sense, flesh/spirit are rather redemptive categories, connected to for the purposes of constrasting the first Adam and the last Adam. While Adam was mere flesh, Jesus Christ is God in the flesh, who by His resurrection poured out the Spirit at Pentecost.
+There is an objective sense of the terms “flesh” and “spirit.” While body/soul is refers to the person as an individual in a philosophical sense, flesh/spirit are rather redemptive categories, connected to for the purposes of constrasting the first Adam and the last Adam. While Adam was mere flesh, Jesus Christ is God in the flesh, who by His resurrection poured out the Spirit at Pentecost.
 
 We should make sure our terms are defined precicely here. Paul, at the end of Romans 2, calls us to put away the flesh and instead put on the spirit. Yet he does not condemn the body. The body is made by God. The flesh is a perversion of God’s created order (an objective term, i.e. extending beyond the individual), where affections are oriented towards a person’s benefit rather than God’s glory. Hence why Jesus tells us, “God is spirit, and those who worship him must worship in spirit and truth.” The call for spirit and truth is not to reject the body, but rather to reorient the body *and* the soul to God’s glory.
 
@@ -25,7 +25,7 @@ We should make sure our terms are defined precicely here. Paul, at the end of Ro
 
 > Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats. And he will place the sheep on his right, but the goats on the left. Then the King will say to those on his right, “Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world.” (Matthew 25:32-24)
 
-> And between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain, with seven horns and with seven eyes, which are the seven spirits of God sent out into all the earth. 7 And he went and took the scroll from the right hand of him who was seated on the throne. 8 And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp, and golden bowls full of incense, which are the prayers of the saints. (Revelation 5:6-8)
+> And between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain, with seven horns and with seven eyes, which are the seven spirits of God sent out into all the earth. And he went and took the scroll from the right hand of him who was seated on the throne. And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp, and golden bowls full of incense, which are the prayers of the saints. (Revelation 5:6-8)
 
 I've heard a number of sermons, as would be expected in Bible-preaching churches, that touch on the Bible's metaphorical usage of sheep in reference to us people. It's a common idea throughout the Bible. Now, I agree with these ministers that the reference to sheep is a reference to us sinners who are redeemed by the blood of the true covenant lamb, Christ Jesus.
 
