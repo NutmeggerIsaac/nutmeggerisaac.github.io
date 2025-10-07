@@ -10,11 +10,10 @@ Further,
 
 body/soul≠law/gospel
 
-and,
+There is an objective sense to the terms “flesh” and “spirit.” While body/soul is refers to the person as an individual in a philosophical sense, flesh/spirit are rather redemptive categories, connected to for the purposes of constrasting the first Adam and the last Adam. While Adam was mere flesh, Jesus Christ is God in the flesh, who by His resurrection poured out the Spirit at Pentecost.
 
-flesh/spirit≠law/gospel
+We should make sure our terms are defined precicely here. Paul, at the end of Romans 2, calls us to put away the flesh and instead put on the spirit. Yet he does not condemn the body. The body is made by God. The flesh is a perversion of God’s created order (an objective term, i.e. extending beyond the individual), where affections are oriented towards a person’s benefit rather than God’s glory. Hence why Jesus tells us, “God is spirit, and those who worship him must worship in spirit and truth.” The call for spirit and truth is not to reject the body, but rather to reorient the body *and* the soul to God’s glory.
 
-We should make sure our terms are defined precicely here. Paul, at the end of Romans 2, calls us to put away the flesh and instead put on the spirit. Yet he does not condemn the body. The body is made by God. The flesh is a perversion of God’s created order, where affections are oriented towards man’s benefit rather than God’s glory. Hence why Jesus tells us, “God is spirit, and those who worship him must worship in spirit and truth.” The call for spirit and truth is not to reject the body, but rather to reorient the body *and* the soul to God’s glory.
 
 ## Sorry, Pastors. Sheep aren't dumb.
 
