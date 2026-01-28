@@ -1,18 +1,24 @@
 *Welcome to Isaac Torcellini's website.*
 
-# Things to read:
+# Publications:
 
-[The Arc of Glory: Nature Deformed, Renewed, and Transcended in Dante’s *Divine Comedy*](/the.arc.of.glory.pdf)
+[The Arc of Glory: Nature Deformed, Renewed, and Transcended in Dante’s *Divine Comedy*](/the.arc.of.glory.pdf). This is essentially my primer on reading *The Divine Comedy*. [Published](https://online.fliphtml5.com/cpesn/ywmn/#p=20) in *Aletheia*, Patrick Henry College’s journal of classical liberal arts, Spring 2023.
+
+[Pragmatism as the American Philosophy](/pragmatism.as.the.american.philosophy.pdf). Forthcoming in *Aletheia*, Spring 2026.
+
+[Jesus the Prophet, Jesus the Displaced: A Redemptive-Historical Theology of Place](/jesus.the.prophet.jesus.the.displaced.pdf). Forthcoming in *The Inheritance*, Patrick Henry College’s journal of theology, Spring 2026.
+
+# Things to read:
 
 [A common question: What about free will? A (brief) introduction to freedom, liberty, and grace in salvation](/what.about.free.will.pdf); [I also made this in a printable pamphlet format](/what.about.free.will.pamphlet.pdf)
 
 [Theology Notes: Random things I think about on any given day that I then write down](/theology-notes.md/)
 
-## Fun stuff:
+# Fun stuff:
 
 [Are you a Puritan or a Royalist? Take this definitive quiz to find out!](/Puritan.or.Royalist.Quiz.pdf)
 
-# Cool pictures of things this world needs:
+# Pictures of things this world needs:
 
 The Fresnel Lens, a great innovation.
 
