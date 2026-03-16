@@ -2,11 +2,11 @@
 
 # Publications:
 
-[The Arc of Glory: Nature Deformed, Renewed, and Transcended in Dante’s *Divine Comedy*](/the.arc.of.glory.pdf). This is essentially my primer on reading *The Divine Comedy*. [Published](https://online.fliphtml5.com/cpesn/ywmn/#p=20) in *Aletheia*, Patrick Henry College’s journal of classical liberal arts, Spring 2023.
-
 [Pragmatism as the American Philosophy](/pragmatism.as.the.american.philosophy.pdf). Forthcoming in *Aletheia*, Spring 2026.
 
 [Jesus the Prophet, Jesus the Displaced: A Redemptive-Historical Theology of Place](/jesus.the.prophet.jesus.the.displaced.pdf). Forthcoming in *The Inheritance*, Patrick Henry College’s journal of theology, Spring 2026.
+
+[The Arc of Glory: Nature Deformed, Renewed, and Transcended in Dante’s *Divine Comedy*](/the.arc.of.glory.pdf). This is essentially my primer on reading *The Divine Comedy*. [Published](https://online.fliphtml5.com/cpesn/ywmn/#p=20) in *Aletheia*, Patrick Henry College’s journal of classical liberal arts, Spring 2023.
 
 # Things to read:
 
